@@ -1,4 +1,4 @@
-```markdown
+
 # 🧠 Real-Time Two-Player Math Game – Backend
 
 This is the **backend service** for a real-time two-player quiz game built with **Go**, using the **Chi router**, **PostgreSQL**, and **Redis**. It handles player authentication, room management, game logic, and real-time communication via WebSockets.
@@ -18,7 +18,7 @@ This is the **backend service** for a real-time two-player quiz game built with 
 
 ## 📁 Project Structure
 
-```
+
 
 /backend
 ┣━ main.go                  # Entry point
@@ -33,7 +33,7 @@ This is the **backend service** for a real-time two-player quiz game built with 
 ┗━ utils/
 ┗━ redis.go               # Redis helper functions
 
-````
+```
 
 ---
 
