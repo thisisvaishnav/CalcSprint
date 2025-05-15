@@ -1,5 +1,3 @@
-Here’s a clean and professional `README.md` you can use for your under-development backend project:
-
 ```markdown
 # 🧠 Real-Time Two-Player Math Game – Backend
 
