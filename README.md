@@ -16,22 +16,7 @@ This is the **backend service** for a real-time two-player quiz game built with 
 
 ---
 
-## 📁 Project Structure
 
-
-
-/backend
-┣━ main.go                  # Entry point
-┣━ routes/
-┃ ┣━ auth.go                # Login/Signup logic
-┃ ┣━ room.go                # Room creation & join
-┃ ┗━ game.go                # Game control and scoring
-┣━ sockets/
-┃ ┗━ game\_socket.go         # Real-time game events
-┣━ db/
-┃ ┗━ supabase.go            # Supabase connection
-┗━ utils/
-┗━ redis.go               # Redis helper functions
 
 ```
 
