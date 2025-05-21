@@ -50,15 +50,6 @@ go run main.go
 
 ---
 
-## ✅ TODOs
-
-* [ ] Add JWT-based auth
-* [ ] Implement Redis-based room state cache
-* [ ] Write integration tests
-* [ ] Rate-limit endpoints
-
----
-
 ## 🧠 Frontend Repository
 
 👉 [Next.js Frontend Repo](https://github.com/your-username/frontend) (WIP)
